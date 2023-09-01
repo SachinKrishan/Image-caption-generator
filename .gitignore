@@ -1,6 +1,6 @@
 flickr8k/
 Image_Caption_Generator_reference.ipynb
-icgen/*
+icgen/
 photo.jpeg
-working/*
-server/*
+working/
+server/
