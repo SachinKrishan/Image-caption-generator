@@ -7,4 +7,4 @@ working/
 server/mlmodel/saved_weights/
 server/mlmodel/saved_weights/best_model_resnet_20.h5
 server/mlmodel/saved_weights/tokenizer.pickle
-
+.DS_Store
