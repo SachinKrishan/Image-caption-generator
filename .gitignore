@@ -9,3 +9,4 @@ working/
 #server/mlmodel/saved_weights/tokenizer.pickle
 .DS_Store
 server/
+.idea/
